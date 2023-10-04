@@ -1,0 +1,15 @@
+\\Mac\Home\Downloads\Lab4\bin\Debug\Lab4.exe.config
+\\Mac\Home\Downloads\Lab4\bin\Debug\Lab4.exe
+\\Mac\Home\Downloads\Lab4\bin\Debug\Lab4.pdb
+\\Mac\Home\Downloads\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Lab4\obj\Debug\Lab4.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Lab4\obj\Debug\Lab4.exe
+\\Mac\Home\Downloads\Lab4\obj\Debug\Lab4.pdb
+\\Mac\Home\Downloads\Lab4-1\bin\Debug\Lab4.exe.config
+\\Mac\Home\Downloads\Lab4-1\bin\Debug\Lab4.exe
+\\Mac\Home\Downloads\Lab4-1\bin\Debug\Lab4.pdb
+\\Mac\Home\Downloads\Lab4-1\obj\Debug\Lab4.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Lab4-1\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Lab4-1\obj\Debug\Lab4.exe
+\\Mac\Home\Downloads\Lab4-1\obj\Debug\Lab4.pdb
